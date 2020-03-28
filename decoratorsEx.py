@@ -12,7 +12,7 @@ def say_whee():
 
 '''
     say_whee is being passed to my_decorator function as argument. then at line 6 when wrapper func is returned it 
-    first prints the statement and then executes the function and prints the statement. wrapper funcation can refer to the 
+    first prints the statement and then executes the function and prints the statement. wrapper function can refer to the 
     func() as it has its reference.
 '''
 
