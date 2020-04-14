@@ -7,4 +7,4 @@ sum = calcFunction.add(a,b)
 
 print(sum)
 
-print(__name__)
+#print(__name__)
